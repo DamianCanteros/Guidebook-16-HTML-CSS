@@ -1,0 +1,11 @@
+.row {
+    align-items: center;
+    text-align: center;
+
+}
+
+.precio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: gainsboro;
+}
